@@ -43,7 +43,7 @@ var resume = {
     Nationality: "Indian",
     Languages_known: [ "Tamil","English"],
     Age: 21,
-    Marks: { "B.Tech": "CGPA 9.25", 
+    Marks: { "B.Tech IT": "CGPA 9.25", 
     "Higher Secondary": "76.38%", 
     SSLC: "92%" },
     Qualification: "B.Tech IT",
